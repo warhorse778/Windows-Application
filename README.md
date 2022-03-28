@@ -1,4 +1,3 @@
-Windows Application
 I'm  studying in Technical University of Varna and at in the second year we learned VS windows applications. So I decided to make one in home.
 
 
