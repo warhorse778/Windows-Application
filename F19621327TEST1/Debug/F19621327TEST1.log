@@ -1,0 +1,9 @@
+﻿  F19621327TEST1.cpp
+D:\University stuff\ПС\F19621327TEST1\F19621327TEST1\F19621327TEST1.cpp(251,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University stuff\ПС\F19621327TEST1\F19621327TEST1\F19621327TEST1.cpp(261,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University stuff\ПС\F19621327TEST1\F19621327TEST1\F19621327TEST1.cpp(253,36): warning C4101: 'e': unreferenced local variable
+D:\University stuff\ПС\F19621327TEST1\F19621327TEST1\F19621327TEST1.cpp(263,36): warning C4101: 'e': unreferenced local variable
+D:\University stuff\ПС\F19621327TEST1\F19621327TEST1\F19621327TEST1.cpp(290,36): warning C4101: 'e': unreferenced local variable
+D:\University stuff\ПС\F19621327TEST1\F19621327TEST1\F19621327TEST1.cpp(300,36): warning C4101: 'e': unreferenced local variable
+D:\University stuff\ПС\F19621327TEST1\F19621327TEST1\F19621327TEST1.cpp(310,36): warning C4101: 'e': unreferenced local variable
+  F19621327TEST1.vcxproj -> D:\University stuff\ПС\F19621327TEST1\Debug\F19621327TEST1.exe
